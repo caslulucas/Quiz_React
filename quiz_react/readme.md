@@ -6,7 +6,7 @@ In the project directory, you can run:
 ### `npm run dev`
 
 
-## Tecnologies
+## Tecnologies used
 
 - REACT
 - NODEJS
