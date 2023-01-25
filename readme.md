@@ -1,3 +1,7 @@
+![Preview](./Preview2.png)
+![Preview](./Preview1.png)
+
+
 In the project directory, you can run:
 
 ### `npm i`
